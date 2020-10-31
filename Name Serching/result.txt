@@ -1,0 +1,11 @@
+'''
+Lab 6
+Wynter M & 
+'''
+
+Question 1: What is this Mexican person's full name?
+Andres Manuel Lopez Matinz
+Question 2: What is this Arabic person's full name?
+Harun Jericho Muhammad
+Question 3: What is this Chinese person's full name in eastern order? 
+Tianyi Huang
